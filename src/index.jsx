@@ -1,6 +1,6 @@
 // Global Dependencies
 import 'react-select/dist/react-select.css';
-import jsonLogic from 'json-logic-js-enhanced';
+import jsonLogic from 'json-logic-js';
 
 // Local
 import ReactJsonLogic from './components/Master';
